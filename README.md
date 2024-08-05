@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA with Java<br>👯 I’m looking to collaborate on Frontend (HTML & CSS)<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Dev<br>💬 Ask me about Psychology<br>⚡ Fun fact:- I am Cockily Crazy😎
+🔭 I’m currently working on DSA with Java<br>👯 I’m looking to collaborate on Frontend (HTML & CSS)<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m looking to learn App Dev<br>💬 Ask me about Psychology<br>⚡ Fun fact:- I am Cockily Crazy😎
 
 
 ## 🌐 Socials:
